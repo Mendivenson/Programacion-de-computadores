@@ -8,7 +8,7 @@ En este repositorio se encuentran algunas de las soluciones propuestas para los 
 
 Dentro de las actividades presentadas es posible encontrar las siguientes:
 
-- [Challenge 3]([Programacion-de-computadores/Challenge 3 at main · Mendivenson/Programacion-de-computadores · GitHub](https://github.com/Mendivenson/Programacion-de-computadores/tree/main/Challenge%203)): Implementación de funciones en el caso de ejemplo de un cajero ATM (Recursividad) (C++) 
+- [Challenge 3](https://github.com/Mendivenson/Programacion-de-computadores/tree/main/Challenge%203): Implementación de funciones en el caso de ejemplo de un cajero ATM (Recursividad) (C++) 
 
 - [Challenge 4]():
 
