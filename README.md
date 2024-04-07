@@ -1,1 +1,1 @@
-# Programacion-de-computadores
+# Programación de computadores
